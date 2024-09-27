@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ws101-andal-navbar/static/css/main.f9982c1b.css",
+    "main.js": "/ws101-andal-navbar/static/js/main.84cb44b3.js",
+    "index.html": "/ws101-andal-navbar/index.html",
+    "main.f9982c1b.css.map": "/ws101-andal-navbar/static/css/main.f9982c1b.css.map",
+    "main.84cb44b3.js.map": "/ws101-andal-navbar/static/js/main.84cb44b3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9982c1b.css",
+    "static/js/main.84cb44b3.js"
+  ]
+}

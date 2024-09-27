@@ -1,0 +1,2 @@
+.navbar{background-color:#141414;display:flex;justify-content:space-around;list-style:none;padding:1rem}.my_name{color:#01f0f8}.nav-link{color:#f0f0f0;padding:14px 20px;text-decoration:none;transition:background-color .4s ease}.nav-link:hover{background-color:#fff;color:#020202}.active{background-color:#fff;color:#000}@media (max-width:414px){.navbar{flex-direction:column}.nav-link{padding:10px;text-align:center}}
+/*# sourceMappingURL=main.f9982c1b.css.map*/
